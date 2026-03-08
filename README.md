@@ -1,4 +1,4 @@
-# PromptPilot (OpenClew)
+# PromptPilot 
 
 An AI agent application built with Node.js.
 
